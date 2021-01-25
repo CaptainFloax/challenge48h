@@ -132,9 +132,10 @@ Heures des rendus :
     *	3 pts travail en équipe
     *	2 pts organisation de travail
     *	1 pts montée en compétence
-*	10 points décodage des sites adverses
-  *	5 pts Temps de résolution
-  *	5 pts Nombre de mot de passe récupéré
+    
+* 10 points décodage des sites adverses
+  * 5 pts Temps de résolution
+  * 5 pts Nombre de mot de passe récupéré
 
 ## Oral
 ### Attendus
@@ -149,8 +150,8 @@ Heures des rendus :
 
 *	Support déposé avant le Mercredi à 8h
 *	25 min de passage
-  * 20 min de présentation
-  * 5 min de question
+* 20 min de présentation
+* 5 min de question
 *	Tout le groupe
 *	Présentation du code, démo du livrable final, du groupe
 
