@@ -62,19 +62,19 @@ Dès la 34e heure du Challenge (mardi 02/02 à 17h), vous aurez l'occasion de la
 Vous pourrez donc envoyé 1 tester pour tenter le Hack des autres plateformes.
 
 Liste des plateformes de l'ensemble des groupes :
-* Groupe 1 : [Accéder]()
+* Groupe 1 : [Accéder](https://challenge-48h-g1.yxssi.vercel.app/)
 * Groupe 2 : [Accéder]()
-* Groupe 3 : [Accéder]()
-* Groupe 4 : [Accéder]()
-* Groupe 5 : [Accéder]()
-* Groupe 6 : [Accéder]()
-* Groupe 7 : [Accéder]()
-* Groupe 8 : [Accéder]()
-* Groupe 9 : [Accéder]()
-* Groupe 10 : [Accéder]()
-* Groupe 11 : [Accéder]()
-* Groupe 12 : [Accéder]()
-* Groupe 13 : [Accéder]()
+* Groupe 3 : [Accéder](https://lifecarebyenigmadoc.herokuapp.com/docs/index.html)
+* Groupe 4 : [Accéder](https://mpreard.herokuapp.com/)
+* Groupe 5 : [Accéder](http://blobcorp.fr/)
+* Groupe 6 : [Accéder](https://gray-hatbox.herokuapp.com/)
+* Groupe 7 : [Accéder](https://ile-mysterieuse.herokuapp.com/)
+* Groupe 8 : [Accéder](https://vast-gorge-11726.herokuapp.com/)
+* Groupe 9 : [Accéder](https://hack9-website.herokuapp.com/)
+* Groupe 10 : [Accéder](https://challenge48h-g10.herokuapp.com/)
+* Groupe 11 : [Accéder](https://the-hack-me-groupe11.netlify.app/serv/)
+* Groupe 12 : [Accéder](http://hackmywebsite.alwaysdata.net/)
+* Groupe 13 : [Accéder](https://thegoatencryptor.fr)
 
 ## Equipe Victorieuse
 
