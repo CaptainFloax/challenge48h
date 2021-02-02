@@ -63,7 +63,7 @@ Vous pourrez donc envoyé 1 tester pour tenter le Hack des autres plateformes.
 
 Liste des plateformes de l'ensemble des groupes :
 * Groupe 1 : [Accéder](https://challenge-48h-g1.yxssi.vercel.app/)
-* Groupe 2 : [Accéder]()
+* Groupe 2 : [Accéder](https://thirsty-golick-ba7e40.netlify.app/)
 * Groupe 3 : [Accéder](https://lifecarebyenigmadoc.herokuapp.com/docs/index.html)
 * Groupe 4 : [Accéder](https://mpreard.herokuapp.com/)
 * Groupe 5 : [Accéder](http://blobcorp.fr/)
